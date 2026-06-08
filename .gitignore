@@ -1,3 +1,6 @@
+# Bash scripts
+script.sh
+
 # Python
 __pycache__/
 *.pyc
