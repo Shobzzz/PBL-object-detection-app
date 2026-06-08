@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['white buoy']
+
+roboflow:
+  workspace: evertons-workspace
+  project: buoy-ball-9evhk
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/evertons-workspace/buoy-ball-9evhk/dataset/dataset
